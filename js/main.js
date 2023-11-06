@@ -1,3 +1,6 @@
+//Always using strict mode
+'use strict';
+
 const navEl = document.querySelector(".nav");
 const hamEl = document.querySelector(".hamburger");
 
